@@ -24,7 +24,9 @@ Use:
 
 If you want to [contact me](mailto:eamon971@outlook.com).
 
-Social platform: [知乎](https://www.zhihu.com/people/alanwake-zhu)、[微博](https://weibo.com/u/6052857247)、[B站](https://space.bilibili.com/341628550?spm_id_from=333.1007.0.0)
+Find me: [知乎](https://www.zhihu.com/people/alanwake-zhu)、[微博](https://weibo.com/u/6052857247)、[B站](https://space.bilibili.com/341628550?spm_id_from=333.1007.0.0).
+
+Listen to my music: [网易云音乐](https://music.163.com/#/artist?id=30130128)、[QQ音乐](https://y.qq.com/n/ryqq/singer/002VnkHV3wBuXk).
 
 ## About Blog
 
