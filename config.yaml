@@ -131,7 +131,7 @@ params:
   tocopen: false
 
   assets:
-    favicon: "🎵"
+    favicon: "/favicon.ico"
 
   #socialIcons:
     #- name: github
