@@ -28,10 +28,14 @@ hidemeta: true
 
 音乐平台：[网易云音乐](https://music.163.com/#/artist?id=30130128)、[QQ音乐](https://y.qq.com/n/ryqq/singer/002VnkHV3wBuXk)。
 
+我的NFT头像： [Solana Doodle Apes #2260](https://solsea.io/nft/AwsytWMzbgMZDBCtVEvD9HTxYBrFWTtHto5CgATWzdL7)
+
+我的以太坊地址：[pangyu.eth](https://etherscan.io/address/0x6de5ee1ad11c08bae5aee6b5ebae2c916fcd4fb8)
+
 ## 关于博客
 
 静态网站生成器
-* `Hugo 0.91` [https://gohugo.io/](https://jekyllrb.com/)
+* `Hugo` [https://gohugo.io/](https://jekyllrb.com/)
 *  使用主题  `PaperMod` [https://themes.gohugo.io/themes/hugo-papermod/](http://jekyllthemes.org/themes/lagrange/)
 
 代码托管

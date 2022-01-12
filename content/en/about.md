@@ -20,13 +20,17 @@ Base Guangzhou China.
 Use:
 * DAW: Cubase / Reaper（mainly used ❤️）；
 * Middleware: Wwise；
-* Game engine: Unity / UE。
+* Game engine: Unity / UE
 
-If you want to [contact me](mailto:eamon971@outlook.com).
+If you want to [contact me](mailto:eamon971@outlook.com)
 
-Find me: [知乎](https://www.zhihu.com/people/alanwake-zhu)、[微博](https://weibo.com/u/6052857247)、[B站](https://space.bilibili.com/341628550?spm_id_from=333.1007.0.0).
+Find me: [知乎](https://www.zhihu.com/people/alanwake-zhu)、[微博](https://weibo.com/u/6052857247)、[B站](https://space.bilibili.com/341628550?spm_id_from=333.1007.0.0)
 
-Listen to my music: [网易云音乐](https://music.163.com/#/artist?id=30130128)、[QQ音乐](https://y.qq.com/n/ryqq/singer/002VnkHV3wBuXk).
+Listen to my music: [网易云音乐](https://music.163.com/#/artist?id=30130128)、[QQ音乐](https://y.qq.com/n/ryqq/singer/002VnkHV3wBuXk)
+
+My NFT Avatar: [Solana Doodle Apes #2260](https://solsea.io/nft/AwsytWMzbgMZDBCtVEvD9HTxYBrFWTtHto5CgATWzdL7)
+
+My Ethereum address: [pangyu.eth](https://etherscan.io/address/0x6de5ee1ad11c08bae5aee6b5ebae2c916fcd4fb8)
 
 ## About Blog
 
